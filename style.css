@@ -8,14 +8,7 @@ body {
     padding: 10px;
 }
 
-#game {    
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.game-content-wrap {
+#game {
     max-width: 500px;
     max-height: 400px;
     background-color: lightgray;
